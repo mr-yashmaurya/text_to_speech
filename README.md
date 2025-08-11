@@ -2,7 +2,7 @@ Text To Speech Fun App
 
 A Text To Speech Fun App Flutter app that converts typed text into speech. This app uses the flutter_tts package to provide text-to-speech functionality.
 
-![image alt ](https://github.com/mr-yashmaurya/text_to_speech/blob/df43b4417756b190f56e6aee073dc83a3ba838ad/Screenshot_1.png raw=true)
+![image alt ](https://github.com/mr-yashmaurya/text_to_speech/blob/df43b4417756b190f56e6aee073dc83a3ba838ad/Screenshot_1.png)
 
 
 ✨ Features
