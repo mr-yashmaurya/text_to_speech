@@ -22,7 +22,7 @@ A Text To Speech Fun App Flutter app that converts typed text into speech. This 
   :- Clone this repository:
 
 # Bash
-  :- git clone https://github.com/your-username/fun_tts_app.git
+  :- git clone https://github.com/mr-yashmaurya/text_to_speech
   :- Navigate to the project directory:
 
 # Bash
